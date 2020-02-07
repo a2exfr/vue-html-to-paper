@@ -2,10 +2,12 @@
 Vue mixin for paper printing html elements.
 
 ***added option for inline styles***
-like 
+like this 
+```
 const options = {
   inlineStyles: '.myClass{backgroud:red;} .font20{font-size:20px;}'
 }
+```
 ### Demo
 
 https://mycurelabs.github.io/vue-html-to-paper/
