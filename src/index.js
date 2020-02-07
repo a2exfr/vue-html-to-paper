@@ -70,7 +70,7 @@ const VueHtmlToPaper = {
 				win.document.close()
 				win.focus()
 				win.print()
-				// win.close();
+				win.close();
 				cb()
 			}, 1000)
 
